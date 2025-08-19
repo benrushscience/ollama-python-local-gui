@@ -2,6 +2,8 @@
 
 A polished, privacy-first desktop UI for chatting with **locally hosted LLMs** via an **OpenAI-compatible API** (e.g., **Ollama**). Launchable from Jupyter or as a plain Python script. Markdown rendering, multi-theme styling, file-context ingestion, streaming, and rich export formats included. Built by @benrushscience and GPT-5 thinking.
 
+To help expedite improvements, here is a custom GPT to use: https://chatgpt.com/g/g-68a49e9e4a008191afe1e98faf9ab0dc-local-ollama-gui-python-gpt
+
 ---
 
 ## Highlights
